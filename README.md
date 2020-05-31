@@ -27,4 +27,6 @@ And then clustering on the image arrays parses the glyphs and transforms them in
 "congratulations, human, if you have deciphered this code then you..."
 ```
 
-Admittedly the contents may not be exactly literary or original, but certainly worth the fun of deciphering them!
+Alas you'll have to run the code (or at least view the Python notebook) to find the rest of the message, which
+does have a few errors from the algorithm but is fairly readable.  Admittedly the content may not be exactly
+literary or original, but certainly worth the fun of deciphering!
